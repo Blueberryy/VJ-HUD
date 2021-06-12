@@ -26,4 +26,18 @@ if CLIENT then
     i18n.RegisterPhrase("fr", "neutral", "Neutre!")
     i18n.RegisterPhrase("fr", "empty", "Vide!")
     i18n.RegisterPhrase("fr", "you", "Vous")
+
+    // Russian
+    i18n.RegisterPhrase("ru", "user_dead", "ПОЛЬЗОВАТЕЛЬ МЁРТВ")
+    i18n.RegisterPhrase("ru", "gmod_mod_enabled", "Режим бога включен!")
+    i18n.RegisterPhrase("ru", "low_health", "ВНИМАНИЕ: Мало здоровья!")
+    i18n.RegisterPhrase("ru", "death_imminent", "ВНИМАНИЕ: Пользователь при смерти!")
+    i18n.RegisterPhrase("ru", "suit", "КОСТЮМ")
+    i18n.RegisterPhrase("ru", "unknown", "Неизвестно!")
+    i18n.RegisterPhrase("ru", "hostile", "Враждебно!")
+    i18n.RegisterPhrase("ru", "frightened", "Напуганное!")
+    i18n.RegisterPhrase("ru", "friendly", "Дружественно!")
+    i18n.RegisterPhrase("ru", "neutral", "Нейтрально!")
+    i18n.RegisterPhrase("ru", "empty", "Пусто!")
+    i18n.RegisterPhrase("ru", "you", "Вы")
 end
